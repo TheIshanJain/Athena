@@ -1,5 +1,5 @@
 # ATHENNA 🤖
-
+https://youtu.be/XAkogNqV5f0?si=V0eP1wPh_dqlMzBz
 **ATHENNA** is a modular, RF‑controlled surveillance and rescue robot featuring a 3‑axis robotic arm, a tracked drivetrain, dual‑mode control (manual + autonomous), and a robust power architecture designed for long standby and field reliability.
 
 This repository is intended to be a **complete, build‑from‑scratch reference**. It contains:
