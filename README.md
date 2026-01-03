@@ -124,7 +124,7 @@ ATHENNA is divided into **two primary subsystems**:
 
 ## 🧩 Circuit Diagrams
 
-All circuit diagrams are provided in the `/circuit diagrams` folder and include:
+All circuit diagrams are provided in the `/Circuit Diagrams` folder and include:
 
 * Transmitter 
 * Receiver 
